@@ -10,37 +10,31 @@ Enthaltene Datenstruktur im Ordner vehicledetection
 
 Konfiguration
 
-1\. Im Ordner webcams das Skript **get\_all\_webcams.py** ausführen: Die Datei webcams.geojson
+  	1\.   Im Ordner webcams das Skript **get\_all\_webcams.py** ausführen: Die Datei webcams.geojson
 
-wird im Ordner webcams/geojsonfiles/ gespeichert und enthält alle Webcamstandorte in RLP
+          wird im Ordner webcams/geojsonfiles/ gespeichert und enthält alle Webcamstandorte in RLP
 
-2\. Verarbeitung in QGIS (QGIS\_Vorgehen.pdf): Ergebnis sind 3 Dateien
+    2\.   Verarbeitung in QGIS (QGIS\_Vorgehen.pdf): Ergebnis sind 3 Dateien
 
-\-
+          \- **Webcams\_mz.geojson**
 
-\-
+          \- **Camera\_fahrspuren.geojson**
 
-\-
+          \- **Fahrtrichtungen\_locations.geojson**
 
-**Webcams\_mz.geojson**
+          --> Speicherung in webcams/geojsonfiles/
 
-**Camera\_fahrspuren.geojson**
+          --> In den Dateien Ä,ü,ö und ß ersetzen (ae, ue, oe, ss)
 
-**Fahrtrichtungen\_locations.geojson**
+          *(die notwendigen Daten sind auch im Ordner QGIS im Geopackage data.gpkg zu finden)*
 
-è Speicherung in webcams/geojsonfiles/
+     3\. Im Ordner webcams das Skript folders\_img.py ausführen: Anlegen von
 
-è In den Dateien Ä,ü,ö und ß ersetzen (ae, ue, oe, ss)
+          Ordnern mit dem Namen der Kamera-ID im Ordner mainz/images
 
-*(die notwendigen Daten sind auch im Ordner QGIS im Geopackage data.gpkg zu finden)*
+          + Datei im Ordner Mainz mit Übersicht der Kamera-ID und Request-Url
 
-3\. Im Ordner webcams das Skript folders\_img.py ausführen: Anlegen von
-
-Ordnern mit dem Namen der Kamera-ID im Ordner mainz/images
-
-\+ Datei im Ordner Mainz mit Übersicht der Kamera-ID und Request-Url
-
-4\. Nach der Installation von Docker Desktop und dem Download der docker-compose.yml Datei
+     4\. Nach der Installation von Docker Desktop und dem Download der docker-compose.yml Datei
 
 (https://github.com/FraunhoferIOSB/FROST-Server/blob/v2.x/scripts/docker-compose.yaml)
 
