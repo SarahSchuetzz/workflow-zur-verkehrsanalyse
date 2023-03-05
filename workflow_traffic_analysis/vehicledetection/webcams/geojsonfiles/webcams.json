@@ -1,0 +1,646 @@
+[
+    {
+      "id": "010",
+      "lat": 50.39173,
+      "lng": 7.54745,
+      "beschreibung": "B9 Koblenz - Kamera 10",
+      "winkel": 310
+    },
+    {
+      "id": "110",
+      "lat": 49.55473,
+      "lng": 8.35446,
+      "beschreibung": "A6 AS Frankenthal - Kamera 110",
+      "winkel": 450
+    },
+    {
+      "id": "115",
+      "lat": 49.55283,
+      "lng": 8.31089,
+      "beschreibung": "A6 AK Frankenthal - Kamera 115",
+      "winkel": 270
+    },
+    {
+      "id": "117",
+      "lat": 49.55283,
+      "lng": 8.31089,
+      "beschreibung": "A61 AK Frankenthal - Kamera 117",
+      "winkel": 350
+    },
+    {
+      "id": "120",
+      "lat": 49.55153,
+      "lng": 8.2615,
+      "beschreibung": "A6 Gerolsheim - Kamera 120",
+      "winkel": 450
+    },
+    {
+      "id": "125",
+      "lat": 49.55252,
+      "lng": 8.186,
+      "beschreibung": "A6 AS Gr&uuml;nstadt - Kamera 125",
+      "winkel": 460
+    },
+    {
+      "id": "130",
+      "lat": 49.54282,
+      "lng": 8.12417,
+      "beschreibung": "A6 Leininger Berg - Kamera 130",
+      "winkel": 250
+    },
+    {
+      "id": "135",
+      "lat": 49.52632,
+      "lng": 8.05988,
+      "beschreibung": "A6 AS Wattenheim - Kamera 135",
+      "winkel": 245
+    },
+    {
+      "id": "155",
+      "lat": 49.4906,
+      "lng": 7.98721,
+      "beschreibung": "A6 Eishohl - Kamera 155",
+      "winkel": 450
+    },
+    {
+      "id": "160",
+      "lat": 49.48336,
+      "lng": 7.94248,
+      "beschreibung": "A6 Schorlenberg - Kamera 160",
+      "winkel": 240
+    },
+    {
+      "id": "165",
+      "lat": 49.46386,
+      "lng": 7.87051,
+      "beschreibung": "A6 Daubenbornerhof - Kamera 165",
+      "winkel": 420
+    },
+    {
+      "id": "170",
+      "lat": 49.45373,
+      "lng": 7.83612,
+      "beschreibung": "A6 Queitersberg - Kamera 170",
+      "winkel": 240
+    },
+    {
+      "id": "175",
+      "lat": 49.46204,
+      "lng": 7.80624,
+      "beschreibung": "A63 AD Kaiserslautern - Kamera 175",
+      "winkel": 260
+    },
+    {
+      "id": "180",
+      "lat": 49.45826,
+      "lng": 7.80665,
+      "beschreibung": "A6 AS Kaiserslautern Zentrum - Kamera 180",
+      "winkel": 480
+    },
+    {
+      "id": "191",
+      "lat": 49.45091,
+      "lng": 7.73143,
+      "beschreibung": "A6 Kaiserslautern - Kamera 191",
+      "winkel": 230
+    },
+    {
+      "id": "205",
+      "lat": 49.44045,
+      "lng": 7.65008,
+      "beschreibung": "A6 AS KL Einsiedlerhof - Kamera 205",
+      "winkel": 247
+    },
+    {
+      "id": "220",
+      "lat": 49.44208,
+      "lng": 7.65563,
+      "beschreibung": "A6 AS KL Einsiedlerhof - Kamera 220",
+      "winkel": 427
+    },
+    {
+      "id": "305",
+      "lat": 49.97114,
+      "lng": 8.31352,
+      "beschreibung": "A60 Mainzer Ring AS Laubenheim - Kamera 305",
+      "winkel": 250
+    },
+    {
+      "id": "310",
+      "lat": 49.97074,
+      "lng": 8.31376,
+      "beschreibung": "A60 Mainzer Ring AS Laubenheim - Kamera 310",
+      "winkel": 440
+    },
+    {
+      "id": "315",
+      "lat": 49.97431,
+      "lng": 8.288,
+      "beschreibung": "A60 Mainzer Ring AS Weisenau - Kamera 315",
+      "winkel": 280
+    },
+    {
+      "id": "317",
+      "lat": 49.97431,
+      "lng": 8.288,
+      "beschreibung": "A60 Mainzer Ring AS Weisenau - Kamera 317",
+      "winkel": 460
+    },
+    {
+      "id": "320",
+      "lat": 49.97341,
+      "lng": 8.27215,
+      "beschreibung": "A60 Mainzer Ring AS Hechtsheim-Ost - Kamera 320",
+      "winkel": 270
+    },
+    {
+      "id": "325",
+      "lat": 49.97341,
+      "lng": 8.27215,
+      "beschreibung": "A60 Mainzer Ring AS Hechtsheim-Ost - Kamera 325",
+      "winkel": 420
+    },
+    {
+      "id": "330",
+      "lat": 49.96433,
+      "lng": 8.24142,
+      "beschreibung": "A60 Mainzer Ring AK Mainz S&uuml;d - Kamera 330",
+      "winkel": 250
+    },
+    {
+      "id": "335",
+      "lat": 49.96433,
+      "lng": 8.24142,
+      "beschreibung": "A60 Mainzer Ring AK Mainz S&uuml;d - Kamera 335",
+      "winkel": 470
+    },
+    {
+      "id": "345",
+      "lat": 49.96317,
+      "lng": 8.23729,
+      "beschreibung": "A63 Mainzer Ring AK Mainz S&uuml;d - Kamera 345",
+      "winkel": 400
+    },
+    {
+      "id": "340",
+      "lat": 49.96317,
+      "lng": 8.23729,
+      "beschreibung": "A63 Mainzer Ring AK Mainz S&uuml;d - Kamera 340",
+      "winkel": 220
+    },
+    {
+      "id": "350",
+      "lat": 49.99941,
+      "lng": 8.18379,
+      "beschreibung": "A60 Mainzer Ring AD Mainz - Kamera 350",
+      "winkel": 320
+    },
+    {
+      "id": "355",
+      "lat": 49.99941,
+      "lng": 8.18379,
+      "beschreibung": "A60 Mainzer Ring AD Mainz - Kamera 355",
+      "winkel": 450
+    },
+    {
+      "id": "360",
+      "lat": 50.00177,
+      "lng": 8.18369,
+      "beschreibung": "A643 Mainzer Ring AD Mainz - Kamera 360",
+      "winkel": 230
+    },
+    {
+      "id": "365",
+      "lat": 50.00177,
+      "lng": 8.18369,
+      "beschreibung": "A643 Mainzer Ring AD Mainz - Kamera 365",
+      "winkel": 410
+    },
+    {
+      "id": "370",
+      "lat": 50.01302,
+      "lng": 8.20253,
+      "beschreibung": "A643 Mainz Gonsenheim - Kamera 370",
+      "winkel": 220
+    },
+    {
+      "id": "375",
+      "lat": 50.01251,
+      "lng": 8.20283,
+      "beschreibung": "A643 Mainz Gonsenheim - Kamera 375",
+      "winkel": 220
+    },
+    {
+      "id": "371",
+      "lat": 50.01135,
+      "lng": 8.20243,
+      "beschreibung": "A643-K18 Mainz Gonsenheim - Kamera 371",
+      "winkel": 300
+    },
+    {
+      "id": "373",
+      "lat": 50.01135,
+      "lng": 8.20243,
+      "beschreibung": "A643-K18 Mainz Gonsenheim - Kamera 373",
+      "winkel": 200
+    },
+    {
+      "id": "377",
+      "lat": 50.02123,
+      "lng": 8.20976,
+      "beschreibung": "A643 Schiersteiner Brücke - Kamera 377",
+      "winkel": 190
+    },
+    {
+      "id": "378",
+      "lat": 50.02123,
+      "lng": 8.20976,
+      "beschreibung": "A643 Schiersteiner Brücke - Kamera 378",
+      "winkel": 380
+    },
+    {
+      "id": "385",
+      "lat": 50.02898,
+      "lng": 8.2114,
+      "beschreibung": "A643 Mainzer Ring AS Mombach - Kamera 385",
+      "winkel": 365
+    },
+    {
+      "id": "380",
+      "lat": 50.02898,
+      "lng": 8.2114,
+      "beschreibung": "A643 Mainzer Ring AS Mombach - Kamera 380",
+      "winkel": 185
+    },
+    {
+      "id": "390",
+      "lat": 50.0298,
+      "lng": 8.21737,
+      "beschreibung": "A643 Mainz Mombach - Kamera 390",
+      "winkel": 290
+    },
+    {
+      "id": "400",
+      "lat": 49.96781,
+      "lng": 8.26273,
+      "beschreibung": "A60 Mainzer Ring AS Hechtsheim Ost - Kamera 400",
+      "winkel": 230
+    },
+    {
+      "id": "420",
+      "lat": 49.97905,
+      "lng": 8.02702,
+      "beschreibung": "A60 Ingelheim-West - Kamera 420",
+      "winkel": 430
+    },
+    {
+      "id": "425",
+      "lat": 49.97905,
+      "lng": 8.02702,
+      "beschreibung": "A60 Ingelheim-West - Kamera 425",
+      "winkel": 250
+    },
+    {
+      "id": "555",
+      "lat": 49.44683,
+      "lng": 7.76826,
+      "beschreibung": "L395 Kaiserslautern Rathaus - Kamera 555",
+      "winkel": 453
+    },
+    {
+      "id": "560",
+      "lat": 49.44683,
+      "lng": 7.76868,
+      "beschreibung": "L395 Kaiserslautern Rathaus - Kamera 560",
+      "winkel": 300
+    },
+    {
+      "id": "600",
+      "lat": 49.21503,
+      "lng": 7.65523,
+      "beschreibung": "B10 Pirmasens Waldfriedhof - Kamera 600",
+      "winkel": 480
+    },
+    {
+      "id": "695",
+      "lat": 49.38988,
+      "lng": 7.43987,
+      "beschreibung": "A6 Bruchmühlbach-Misau 695",
+      "winkel": 230
+    },
+    {
+      "id": "700",
+      "lat": 49.42367,
+      "lng": 7.61052,
+      "beschreibung": "A6 Parkplatz H&ouml;llenplacken - Kamera 700",
+      "winkel": 245
+    },
+    {
+      "id": "705",
+      "lat": 49.44519,
+      "lng": 7.69122,
+      "beschreibung": "A6 Kaiserslautern West - Kamera 705",
+      "winkel": 254
+    },
+    {
+      "id": "795",
+      "lat": 49.28688,
+      "lng": 8.15227,
+      "beschreibung": "A65 Edenkoben - Kamera 795",
+      "winkel": 355
+    },
+    {
+      "id": "800",
+      "lat": 49.22005,
+      "lng": 8.1434,
+      "beschreibung": "A65 Dammheim - Kamera 800",
+      "winkel": 380
+    },
+    {
+      "id": "810",
+      "lat": 49.05303,
+      "lng": 8.23383,
+      "beschreibung": "A65 Dorschberg - Kamera 810",
+      "winkel": 310
+    },
+    {
+      "id": "815",
+      "lat": 49.03934,
+      "lng": 8.28316,
+      "beschreibung": "B10 Maximiliansau - Kamera 815",
+      "winkel": 450
+    },
+    {
+      "id": "820",
+      "lat": 49.03739,
+      "lng": 8.29851,
+      "beschreibung": "B10 Rheinbr&uuml;cke - Kamera 820",
+      "winkel": 460
+    },
+    {
+      "id": "825",
+      "lat": 49.03739,
+      "lng": 8.29851,
+      "beschreibung": "B10 Rheinbr&uuml;cke - Kamera 825",
+      "winkel": 280
+    },
+    {
+      "id": "1110",
+      "lat": 50.35637,
+      "lng": 7.58894,
+      "beschreibung": "B9 Moselring - Kamera 1110",
+      "winkel": 195
+    },
+    {
+      "id": "1120",
+      "lat": 50.35637,
+      "lng": 7.58894,
+      "beschreibung": "B9 Moselring - Kamera 1120",
+      "winkel": 360
+    },
+    {
+      "id": "1130",
+      "lat": 50.35531,
+      "lng": 7.59602,
+      "beschreibung": "LBM Zentrale - Kamera 1130",
+      "winkel": 290
+    },
+    {
+      "id": "1140",
+      "lat": 50.35531,
+      "lng": 7.59602,
+      "beschreibung": "LBM Zentrale - Kamera 1140",
+      "winkel": 460
+    },
+    {
+      "id": "1310",
+      "lat": 50.38185,
+      "lng": 7.57146,
+      "beschreibung": "Mittelweiden - Kamera 1310",
+      "winkel": 300
+    },
+    {
+      "id": "1320",
+      "lat": 50.3328,
+      "lng": 7.59202,
+      "beschreibung": "Südbrücke - Kamera 1320",
+      "winkel": 470
+    },
+    {
+      "id": "1330",
+      "lat": 50.3328,
+      "lng": 7.59202,
+      "beschreibung": "Südbrücke - Kamera 1330",
+      "winkel": 290
+    },
+    {
+      "id": "1340",
+      "lat": 50.35152,
+      "lng": 7.60859,
+      "beschreibung": "Pfaffendorf - Kamera 1340",
+      "winkel": 210
+    },
+    {
+      "id": "1350",
+      "lat": 50.35151,
+      "lng": 7.6086,
+      "beschreibung": "Pfaffendorf - Kamera 1350",
+      "winkel": 380
+    },
+    {
+      "id": "1360",
+      "lat": 50.36153,
+      "lng": 7.61015,
+      "beschreibung": "Ehrenbreitstein - Kamera 1360",
+      "winkel": 380
+    },
+    {
+      "id": "1370",
+      "lat": 50.36153,
+      "lng": 7.61017,
+      "beschreibung": "Ehrenbreitstein - Kamera 1370",
+      "winkel": 210
+    },
+    {
+      "id": "1380",
+      "lat": 50.3606,
+      "lng": 7.56773,
+      "beschreibung": "Debeka Gebäude - Kamera 1380",
+      "winkel": 430
+    },
+    {
+      "id": "1390",
+      "lat": 50.36245,
+      "lng": 7.59346,
+      "beschreibung": "Balduinbrücke - Kamera 1390",
+      "winkel": 530
+    },
+    {
+      "id": "1400",
+      "lat": 50.35317,
+      "lng": 7.60119,
+      "beschreibung": "Pfaffendorferbrücke - Kamera 1400",
+      "winkel": 270
+    },
+    {
+      "id": "1410",
+      "lat": 50.3598,
+      "lng": 7.58891,
+      "beschreibung": "Saarkreisel - Kamera 1410",
+      "winkel": 480
+    },
+    {
+      "id": "1420",
+      "lat": 50.35986,
+      "lng": 7.58887,
+      "beschreibung": "Europabrücke - Kamera 1420",
+      "winkel": 540
+    },
+    {
+      "id": "1430",
+      "lat": 50.36695,
+      "lng": 7.58766,
+      "beschreibung": "B9 Europabrücke - Kamera 1430",
+      "winkel": 360
+    },
+    {
+      "id": "1440",
+      "lat": 50.3654,
+      "lng": 7.61148,
+      "beschreibung": "Deutsches Eck - Kamera 1440",
+      "winkel": 440
+    },
+    {
+      "id": "1500",
+      "lat": 50.41452,
+      "lng": 7.58223,
+      "beschreibung": "A48 Bendorf - Kamera 1500",
+      "winkel": 290
+    },
+    {
+      "id": "1505",
+      "lat": 50.41452,
+      "lng": 7.58223,
+      "beschreibung": "A48 Bendorf - Kamera 1505",
+      "winkel": 405
+    },
+    {
+      "id": "1610",
+      "lat": 49.60717,
+      "lng": 8.00388,
+      "beschreibung": "A63 Göllheim - Kamera 1610",
+      "winkel": 410
+    },
+    {
+      "id": "1710",
+      "lat": 49.70035,
+      "lng": 8.20736,
+      "beschreibung": "A61 Gundersheim - Kamera 1710",
+      "winkel": 280
+    },
+    {
+      "id": "1715",
+      "lat": 49.70035,
+      "lng": 8.20736,
+      "beschreibung": "A61 Gundersheim2 - Kamera 1715",
+      "winkel": 460
+    },
+    {
+      "id": "1720",
+      "lat": 49.60109,
+      "lng": 8.28758,
+      "beschreibung": "A61 Wiesoppenheim - Kamera 1720",
+      "winkel": 360
+    },
+    {
+      "id": "1740",
+      "lat": 49.48436,
+      "lng": 8.31252,
+      "beschreibung": "A61 Maxdorf - Kamera 1740",
+      "winkel": 530
+    },
+    {
+      "id": "1750",
+      "lat": 49.45942,
+      "lng": 8.36298,
+      "beschreibung": "A65 Ludwigshafen- Kamera 1750",
+      "winkel": 530
+    },
+    {
+      "id": "1810",
+      "lat": 49.73765,
+      "lng": 8.13834,
+      "beschreibung": "A61 Dautenheimer Talbrücke - Kamera 1810",
+      "winkel": 355
+    },
+    {
+      "id": "1820",
+      "lat": 49.77455,
+      "lng": 8.11122,
+      "beschreibung": "A61 Alzey - Kamera 1820",
+      "winkel": 530
+    },
+    {
+      "id": "1910",
+      "lat": 49.38194,
+      "lng": 8.25006,
+      "beschreibung": "A65 Hassloch - Kamera 1910",
+      "winkel": 435
+    },
+    {
+      "id": "2110",
+      "lat": 49.803,
+      "lng": 6.69108,
+      "beschreibung": "B52 Trier-Ehrang, Moselbrücke - Kamera 2110",
+      "winkel": 305
+    },
+    {
+      "id": "2120",
+      "lat": 49.803,
+      "lng": 6.69108,
+      "beschreibung": "B52 Trier-Ehrang, Moselbrücke - Kamera 2120",
+      "winkel": 485
+    },
+    {
+      "id": "2510",
+      "lat": 50.01633,
+      "lng": 8.25376,
+      "beschreibung": "Mainz Feuerwache2 - Kamera 2510",
+      "winkel": 470
+    },
+    {
+      "id": "2520",
+      "lat": 49.9815,
+      "lng": 8.26027,
+      "beschreibung": "Mainz Pariser Straße - Kamera 2520",
+      "winkel": 400
+    },
+    {
+      "id": "2530",
+      "lat": 49.9949,
+      "lng": 8.23882,
+      "beschreibung": "Mainz Saarstraße - Kamera 2530",
+      "winkel": 440
+    },
+    {
+      "id": "2540",
+      "lat": 49.9835,
+      "lng": 8.30386,
+      "beschreibung": "Mainz Wormser Straße - Kamera 2540",
+      "winkel": 320
+    },
+    {
+      "id": "2550",
+      "lat": 50.00363,
+      "lng": 8.27438,
+      "beschreibung": "Mainz Theodor-Heuss-Brücke - Kamera 2550",
+      "winkel": 500
+    },
+    {
+      "id": "2560",
+      "lat": 50.00614,
+      "lng": 8.272,
+      "beschreibung": "Mainz Theodor-Heuss-Brücke - Kamera 2560",
+      "winkel": 320
+    }
+  ]

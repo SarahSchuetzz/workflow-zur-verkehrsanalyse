@@ -1,0 +1,325 @@
+{
+    "type": "FeatureCollection",
+    "name": "camera_fahrspuren2",
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "id": "370",
+                "fahrtrichtung": "Mombach A643 Gonsenheim"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "335",
+                "fahrtrichtung": "Hechtsheim A60 Mainz-Sued"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "315",
+                "fahrtrichtung": "Hechtsheim A60 Weisenau"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "315",
+                "fahrtrichtung": "Ginsheim A60 Weisenau"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "360",
+                "fahrtrichtung": "Auffahrt Mainzer Dreieck A643"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "377",
+                "fahrtrichtung": "Mainzer Dreieck A643 Mainzer Sand"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "355",
+                "fahrtrichtung": "Heidesheim A60"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "330",
+                "fahrtrichtung": "Finthen A60 Mainz-Sued"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "373",
+                "fahrtrichtung": "Kreisverkehreinfahrt Gonsenheim"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "325",
+                "fahrtrichtung": "Hechtsheim"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "317",
+                "fahrtrichtung": "Mainz-Weisenau Bauhaus"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "380",
+                "fahrtrichtung": "Mainzer Dreieck A643 Mombach"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "380",
+                "fahrtrichtung": "Schiersteiner Bruecke A643 Mombach"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "317",
+                "fahrtrichtung": "Abfahrt A60 Bauhaus Weisenau"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "365",
+                "fahrtrichtung": "Heidesheim A60 Dreieck Mainz"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "305",
+                "fahrtrichtung": "Mainz-Weisenau A60 Laubenheim"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "377",
+                "fahrtrichtung": "Mombach A643 Mainzer Sand"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "390",
+                "fahrtrichtung": "A643 Rheinallee Mombach"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2520",
+                "fahrtrichtung": "Mainz-Sued B40 Pariser Strasse"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2520",
+                "fahrtrichtung": "Oberstadt B40 Pariser Strasse"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "365",
+                "fahrtrichtung": "Gonsenheim A643 Mainzer Dreieck"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2560",
+                "fahrtrichtung": "Rheinallee Theodor-Heuss-Bruecke"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "345",
+                "fahrtrichtung": "Bretzenheim A63 Mainz-Sued"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "371",
+                "fahrtrichtung": "Kreisverkehr Gonsenheim"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "320",
+                "fahrtrichtung": "Autobahntunnel Ausfahrt Hechtsheim"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2530",
+                "fahrtrichtung": "Innenstadt Saarstrasse"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "325",
+                "fahrtrichtung": "Oberstadt"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "370",
+                "fahrtrichtung": "Mainzer Dreieck A643 Gonsenheim"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2550",
+                "fahrtrichtung": "Mainz-Kastel Theodor-Heuss-Bruecke"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2540",
+                "fahrtrichtung": "Mainz-Weisenau"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "375",
+                "fahrtrichtung": "Auffahrt A643 Gonsenheim"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2510",
+                "fahrtrichtung": "Theodor-Heuss-Bruecke Rheinallee Zollhafen"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2530",
+                "fahrtrichtung": "Finthen Saarstrasse"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "345",
+                "fahrtrichtung": "Kleinwinternheim A63 Mainz-Sued"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "355",
+                "fahrtrichtung": "Finthen A60"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "390",
+                "fahrtrichtung": "Rheinallee Momabach"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2510",
+                "fahrtrichtung": "Mombach Rheinallee Zollhafen"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "310",
+                "fahrtrichtung": "Ginsheim A60 Laubenheim"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "373",
+                "fahrtrichtung": "Kreisverkehrausfahrt Gonsenheim"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "320",
+                "fahrtrichtung": "Autobahntunnel Einfahrt Hechtsheim"
+            },
+            "geometry": null
+        }
+    ]
+}

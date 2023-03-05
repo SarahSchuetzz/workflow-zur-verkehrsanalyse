@@ -1,0 +1,1199 @@
+{"type": "FeatureCollection",
+ "features":[
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.54745, 50.39173]
+        },
+        "properties": {
+            "id": "010",
+            "desc": "B9 Koblenz - Kamera 10",
+            "angle": "310"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.35446, 49.55473]
+        },
+        "properties": {
+            "id": "110",
+            "desc": "A6 AS Frankenthal - Kamera 110",
+            "angle": "450"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.31089, 49.55283]
+        },
+        "properties": {
+            "id": "115",
+            "desc": "A6 AK Frankenthal - Kamera 115",
+            "angle": "270"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.31089, 49.55283]
+        },
+        "properties": {
+            "id": "117",
+            "desc": "A61 AK Frankenthal - Kamera 117",
+            "angle": "350"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.2615, 49.55153]
+        },
+        "properties": {
+            "id": "120",
+            "desc": "A6 Gerolsheim - Kamera 120",
+            "angle": "450"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.186, 49.55252]
+        },
+        "properties": {
+            "id": "125",
+            "desc": "A6 AS Gr&uuml;nstadt - Kamera 125",
+            "angle": "460"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.12417, 49.54282]
+        },
+        "properties": {
+            "id": "130",
+            "desc": "A6 Leininger Berg - Kamera 130",
+            "angle": "250"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.05988, 49.52632]
+        },
+        "properties": {
+            "id": "135",
+            "desc": "A6 AS Wattenheim - Kamera 135",
+            "angle": "245"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.98721, 49.4906]
+        },
+        "properties": {
+            "id": "155",
+            "desc": "A6 Eishohl - Kamera 155",
+            "angle": "450"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.94248, 49.48336]
+        },
+        "properties": {
+            "id": "160",
+            "desc": "A6 Schorlenberg - Kamera 160",
+            "angle": "240"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.87051, 49.46386]
+        },
+        "properties": {
+            "id": "165",
+            "desc": "A6 Daubenbornerhof - Kamera 165",
+            "angle": "420"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.83612, 49.45373]
+        },
+        "properties": {
+            "id": "170",
+            "desc": "A6 Queitersberg - Kamera 170",
+            "angle": "240"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.80624, 49.46204]
+        },
+        "properties": {
+            "id": "175",
+            "desc": "A63 AD Kaiserslautern - Kamera 175",
+            "angle": "260"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.80665, 49.45826]
+        },
+        "properties": {
+            "id": "180",
+            "desc": "A6 AS Kaiserslautern Zentrum - Kamera 180",
+            "angle": "480"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.73143, 49.45091]
+        },
+        "properties": {
+            "id": "191",
+            "desc": "A6 Kaiserslautern - Kamera 191",
+            "angle": "230"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.65008, 49.44045]
+        },
+        "properties": {
+            "id": "205",
+            "desc": "A6 AS KL Einsiedlerhof - Kamera 205",
+            "angle": "247"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.65563, 49.44208]
+        },
+        "properties": {
+            "id": "220",
+            "desc": "A6 AS KL Einsiedlerhof - Kamera 220",
+            "angle": "427"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.31352, 49.97114]
+        },
+        "properties": {
+            "id": "305",
+            "desc": "A60 Mainzer Ring AS Laubenheim - Kamera 305",
+            "angle": "250"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.31376, 49.97074]
+        },
+        "properties": {
+            "id": "310",
+            "desc": "A60 Mainzer Ring AS Laubenheim - Kamera 310",
+            "angle": "440"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.288, 49.97431]
+        },
+        "properties": {
+            "id": "315",
+            "desc": "A60 Mainzer Ring AS Weisenau - Kamera 315",
+            "angle": "280"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.288, 49.97431]
+        },
+        "properties": {
+            "id": "317",
+            "desc": "A60 Mainzer Ring AS Weisenau - Kamera 317",
+            "angle": "460"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.27215, 49.97341]
+        },
+        "properties": {
+            "id": "320",
+            "desc": "A60 Mainzer Ring AS Hechtsheim-Ost - Kamera 320",
+            "angle": "270"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.27215, 49.97341]
+        },
+        "properties": {
+            "id": "325",
+            "desc": "A60 Mainzer Ring AS Hechtsheim-Ost - Kamera 325",
+            "angle": "420"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.24142, 49.96433]
+        },
+        "properties": {
+            "id": "330",
+            "desc": "A60 Mainzer Ring AK Mainz S&uuml;d - Kamera 330",
+            "angle": "250"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.24142, 49.96433]
+        },
+        "properties": {
+            "id": "335",
+            "desc": "A60 Mainzer Ring AK Mainz S&uuml;d - Kamera 335",
+            "angle": "470"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.23729, 49.96317]
+        },
+        "properties": {
+            "id": "345",
+            "desc": "A63 Mainzer Ring AK Mainz S&uuml;d - Kamera 345",
+            "angle": "400"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.23729, 49.96317]
+        },
+        "properties": {
+            "id": "340",
+            "desc": "A63 Mainzer Ring AK Mainz S&uuml;d - Kamera 340",
+            "angle": "220"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.18379, 49.99941]
+        },
+        "properties": {
+            "id": "350",
+            "desc": "A60 Mainzer Ring AD Mainz - Kamera 350",
+            "angle": "320"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.18379, 49.99941]
+        },
+        "properties": {
+            "id": "355",
+            "desc": "A60 Mainzer Ring AD Mainz - Kamera 355",
+            "angle": "450"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.18369, 50.00177]
+        },
+        "properties": {
+            "id": "360",
+            "desc": "A643 Mainzer Ring AD Mainz - Kamera 360",
+            "angle": "230"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.18369, 50.00177]
+        },
+        "properties": {
+            "id": "365",
+            "desc": "A643 Mainzer Ring AD Mainz - Kamera 365",
+            "angle": "410"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.20253, 50.01302]
+        },
+        "properties": {
+            "id": "370",
+            "desc": "A643 Mainz Gonsenheim - Kamera 370",
+            "angle": "220"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.20283, 50.01251]
+        },
+        "properties": {
+            "id": "375",
+            "desc": "A643 Mainz Gonsenheim - Kamera 375",
+            "angle": "220"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.20243, 50.01135]
+        },
+        "properties": {
+            "id": "371",
+            "desc": "A643-K18 Mainz Gonsenheim - Kamera 371",
+            "angle": "300"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.20243, 50.01135]
+        },
+        "properties": {
+            "id": "373",
+            "desc": "A643-K18 Mainz Gonsenheim - Kamera 373",
+            "angle": "200"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.20976, 50.02123]
+        },
+        "properties": {
+            "id": "377",
+            "desc": "A643 Schiersteiner Brücke - Kamera 377",
+            "angle": "190"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.20976, 50.02123]
+        },
+        "properties": {
+            "id": "378",
+            "desc": "A643 Schiersteiner Brücke - Kamera 378",
+            "angle": "380"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.2114, 50.02898]
+        },
+        "properties": {
+            "id": "385",
+            "desc": "A643 Mainzer Ring AS Mombach - Kamera 385",
+            "angle": "365"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.2114, 50.02898]
+        },
+        "properties": {
+            "id": "380",
+            "desc": "A643 Mainzer Ring AS Mombach - Kamera 380",
+            "angle": "185"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.21737, 50.0298]
+        },
+        "properties": {
+            "id": "390",
+            "desc": "A643 Mainz Mombach - Kamera 390",
+            "angle": "290"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.26273, 49.96781]
+        },
+        "properties": {
+            "id": "400",
+            "desc": "A60 Mainzer Ring AS Hechtsheim Ost - Kamera 400",
+            "angle": "230"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.02702, 49.97905]
+        },
+        "properties": {
+            "id": "420",
+            "desc": "A60 Ingelheim-West - Kamera 420",
+            "angle": "430"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.02702, 49.97905]
+        },
+        "properties": {
+            "id": "425",
+            "desc": "A60 Ingelheim-West - Kamera 425",
+            "angle": "250"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.76826, 49.44683]
+        },
+        "properties": {
+            "id": "555",
+            "desc": "L395 Kaiserslautern Rathaus - Kamera 555",
+            "angle": "453"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.76868, 49.44683]
+        },
+        "properties": {
+            "id": "560",
+            "desc": "L395 Kaiserslautern Rathaus - Kamera 560",
+            "angle": "300"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.65523, 49.21503]
+        },
+        "properties": {
+            "id": "600",
+            "desc": "B10 Pirmasens Waldfriedhof - Kamera 600",
+            "angle": "480"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.43987, 49.38988]
+        },
+        "properties": {
+            "id": "695",
+            "desc": "A6 Bruchmühlbach-Misau 695",
+            "angle": "230"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.61052, 49.42367]
+        },
+        "properties": {
+            "id": "700",
+            "desc": "A6 Parkplatz H&ouml;llenplacken - Kamera 700",
+            "angle": "245"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.69122, 49.44519]
+        },
+        "properties": {
+            "id": "705",
+            "desc": "A6 Kaiserslautern West - Kamera 705",
+            "angle": "254"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.15227, 49.28688]
+        },
+        "properties": {
+            "id": "795",
+            "desc": "A65 Edenkoben - Kamera 795",
+            "angle": "355"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.1434, 49.22005]
+        },
+        "properties": {
+            "id": "800",
+            "desc": "A65 Dammheim - Kamera 800",
+            "angle": "380"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.23383, 49.05303]
+        },
+        "properties": {
+            "id": "810",
+            "desc": "A65 Dorschberg - Kamera 810",
+            "angle": "310"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.28316, 49.03934]
+        },
+        "properties": {
+            "id": "815",
+            "desc": "B10 Maximiliansau - Kamera 815",
+            "angle": "450"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.29851, 49.03739]
+        },
+        "properties": {
+            "id": "820",
+            "desc": "B10 Rheinbr&uuml;cke - Kamera 820",
+            "angle": "460"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.29851, 49.03739]
+        },
+        "properties": {
+            "id": "825",
+            "desc": "B10 Rheinbr&uuml;cke - Kamera 825",
+            "angle": "280"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.58894, 50.35637]
+        },
+        "properties": {
+            "id": "1110",
+            "desc": "B9 Moselring - Kamera 1110",
+            "angle": "195"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.58894, 50.35637]
+        },
+        "properties": {
+            "id": "1120",
+            "desc": "B9 Moselring - Kamera 1120",
+            "angle": "360"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.59602, 50.35531]
+        },
+        "properties": {
+            "id": "1130",
+            "desc": "LBM Zentrale - Kamera 1130",
+            "angle": "290"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.59602, 50.35531]
+        },
+        "properties": {
+            "id": "1140",
+            "desc": "LBM Zentrale - Kamera 1140",
+            "angle": "460"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.57146, 50.38185]
+        },
+        "properties": {
+            "id": "1310",
+            "desc": "Mittelweiden - Kamera 1310",
+            "angle": "300"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.59202, 50.3328]
+        },
+        "properties": {
+            "id": "1320",
+            "desc": "Südbrücke - Kamera 1320",
+            "angle": "470"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.59202, 50.3328]
+        },
+        "properties": {
+            "id": "1330",
+            "desc": "Südbrücke - Kamera 1330",
+            "angle": "290"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.60859, 50.35152]
+        },
+        "properties": {
+            "id": "1340",
+            "desc": "Pfaffendorf - Kamera 1340",
+            "angle": "210"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.6086, 50.35151]
+        },
+        "properties": {
+            "id": "1350",
+            "desc": "Pfaffendorf - Kamera 1350",
+            "angle": "380"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.61015, 50.36153]
+        },
+        "properties": {
+            "id": "1360",
+            "desc": "Ehrenbreitstein - Kamera 1360",
+            "angle": "380"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.61017, 50.36153]
+        },
+        "properties": {
+            "id": "1370",
+            "desc": "Ehrenbreitstein - Kamera 1370",
+            "angle": "210"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.56773, 50.3606]
+        },
+        "properties": {
+            "id": "1380",
+            "desc": "Debeka Gebäude - Kamera 1380",
+            "angle": "430"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.59346, 50.36245]
+        },
+        "properties": {
+            "id": "1390",
+            "desc": "Balduinbrücke - Kamera 1390",
+            "angle": "530"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.60119, 50.35317]
+        },
+        "properties": {
+            "id": "1400",
+            "desc": "Pfaffendorferbrücke - Kamera 1400",
+            "angle": "270"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.58891, 50.3598]
+        },
+        "properties": {
+            "id": "1410",
+            "desc": "Saarkreisel - Kamera 1410",
+            "angle": "480"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.58887, 50.35986]
+        },
+        "properties": {
+            "id": "1420",
+            "desc": "Europabrücke - Kamera 1420",
+            "angle": "540"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.58766, 50.36695]
+        },
+        "properties": {
+            "id": "1430",
+            "desc": "B9 Europabrücke - Kamera 1430",
+            "angle": "360"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.61148, 50.3654]
+        },
+        "properties": {
+            "id": "1440",
+            "desc": "Deutsches Eck - Kamera 1440",
+            "angle": "440"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.58223, 50.41452]
+        },
+        "properties": {
+            "id": "1500",
+            "desc": "A48 Bendorf - Kamera 1500",
+            "angle": "290"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.58223, 50.41452]
+        },
+        "properties": {
+            "id": "1505",
+            "desc": "A48 Bendorf - Kamera 1505",
+            "angle": "405"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.00388, 49.60717]
+        },
+        "properties": {
+            "id": "1610",
+            "desc": "A63 Göllheim - Kamera 1610",
+            "angle": "410"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.20736, 49.70035]
+        },
+        "properties": {
+            "id": "1710",
+            "desc": "A61 Gundersheim - Kamera 1710",
+            "angle": "280"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.20736, 49.70035]
+        },
+        "properties": {
+            "id": "1715",
+            "desc": "A61 Gundersheim2 - Kamera 1715",
+            "angle": "460"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.28758, 49.60109]
+        },
+        "properties": {
+            "id": "1720",
+            "desc": "A61 Wiesoppenheim - Kamera 1720",
+            "angle": "360"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.31252, 49.48436]
+        },
+        "properties": {
+            "id": "1740",
+            "desc": "A61 Maxdorf - Kamera 1740",
+            "angle": "530"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.36298, 49.45942]
+        },
+        "properties": {
+            "id": "1750",
+            "desc": "A65 Ludwigshafen- Kamera 1750",
+            "angle": "530"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.13834, 49.73765]
+        },
+        "properties": {
+            "id": "1810",
+            "desc": "A61 Dautenheimer Talbrücke - Kamera 1810",
+            "angle": "355"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.11122, 49.77455]
+        },
+        "properties": {
+            "id": "1820",
+            "desc": "A61 Alzey - Kamera 1820",
+            "angle": "530"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.25006, 49.38194]
+        },
+        "properties": {
+            "id": "1910",
+            "desc": "A65 Hassloch - Kamera 1910",
+            "angle": "435"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [6.69108, 49.803]
+        },
+        "properties": {
+            "id": "2110",
+            "desc": "B52 Trier-Ehrang, Moselbrücke - Kamera 2110",
+            "angle": "305"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [6.69108, 49.803]
+        },
+        "properties": {
+            "id": "2120",
+            "desc": "B52 Trier-Ehrang, Moselbrücke - Kamera 2120",
+            "angle": "485"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.25376, 50.01633]
+        },
+        "properties": {
+            "id": "2510",
+            "desc": "Mainz Feuerwache2 - Kamera 2510",
+            "angle": "470"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.26027, 49.9815]
+        },
+        "properties": {
+            "id": "2520",
+            "desc": "Mainz Pariser Straße - Kamera 2520",
+            "angle": "400"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.23882, 49.9949]
+        },
+        "properties": {
+            "id": "2530",
+            "desc": "Mainz Saarstraße - Kamera 2530",
+            "angle": "440"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.30386, 49.9835]
+        },
+        "properties": {
+            "id": "2540",
+            "desc": "Mainz Wormser Straße - Kamera 2540",
+            "angle": "320"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.27438, 50.00363]
+        },
+        "properties": {
+            "id": "2550",
+            "desc": "Mainz Theodor-Heuss-Brücke - Kamera 2550",
+            "angle": "500"
+        }
+    },
+        
+    { 
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.272, 50.00614]
+        },
+        "properties": {
+            "id": "2560",
+            "desc": "Mainz Theodor-Heuss-Brücke - Kamera 2560",
+            "angle": "320"
+        }
+    }
+    ]
+}

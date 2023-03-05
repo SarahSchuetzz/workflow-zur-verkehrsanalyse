@@ -1,0 +1,431 @@
+{
+    "type": "FeatureCollection",
+    "name": "webcams_mz",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "id": "305",
+                "desc": "A60 Mainzer Ring AS Laubenheim - Kamera 305",
+                "angle": "250"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [8.31352, 49.97114]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "310",
+                "desc": "A60 Mainzer Ring AS Laubenheim - Kamera 310",
+                "angle": "440"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [8.31376, 49.97074]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "315",
+                "desc": "A60 Mainzer Ring AS Weisenau - Kamera 315",
+                "angle": "280"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [8.288, 49.97431]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "317",
+                "desc": "A60 Mainzer Ring AS Weisenau - Kamera 317",
+                "angle": "460"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [8.288, 49.97431]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "320",
+                "desc": "A60 Mainzer Ring AS Hechtsheim-Ost - Kamera 320",
+                "angle": "270"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [8.27215, 49.97341]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "325",
+                "desc": "A60 Mainzer Ring AS Hechtsheim-Ost - Kamera 325",
+                "angle": "420"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [8.27215, 49.97341]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "330",
+                "desc": "A60 Mainzer Ring AK Mainz S&uuml;d - Kamera 330",
+                "angle": "250"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [8.24142, 49.96433]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "335",
+                "desc": "A60 Mainzer Ring AK Mainz S&uuml;d - Kamera 335",
+                "angle": "470"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [8.24142, 49.96433]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "345",
+                "desc": "A63 Mainzer Ring AK Mainz S&uuml;d - Kamera 345",
+                "angle": "400"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [8.23729, 49.96317]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "340",
+                "desc": "A63 Mainzer Ring AK Mainz S&uuml;d - Kamera 340",
+                "angle": "220"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [8.23729, 49.96317]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "350",
+                "desc": "A60 Mainzer Ring AD Mainz - Kamera 350",
+                "angle": "320"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [8.18379, 49.99941]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "355",
+                "desc": "A60 Mainzer Ring AD Mainz - Kamera 355",
+                "angle": "450"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [8.18379, 49.99941]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "360",
+                "desc": "A643 Mainzer Ring AD Mainz - Kamera 360",
+                "angle": "230"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [8.18369, 50.00177]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "365",
+                "desc": "A643 Mainzer Ring AD Mainz - Kamera 365",
+                "angle": "410"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [8.18369, 50.00177]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "370",
+                "desc": "A643 Mainz Gonsenheim - Kamera 370",
+                "angle": "220"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [8.20253, 50.01302]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "375",
+                "desc": "A643 Mainz Gonsenheim - Kamera 375",
+                "angle": "220"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [8.20283, 50.01251]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "371",
+                "desc": "A643-K18 Mainz Gonsenheim - Kamera 371",
+                "angle": "300"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [8.20243, 50.01135]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "373",
+                "desc": "A643-K18 Mainz Gonsenheim - Kamera 373",
+                "angle": "200"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [8.20243, 50.01135]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "377",
+                "desc": "A643 Schiersteiner Bruecke - Kamera 377",
+                "angle": "190"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [8.20976, 50.02123]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "378",
+                "desc": "A643 Schiersteiner Bruecke - Kamera 378",
+                "angle": "380"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [8.20976, 50.02123]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "385",
+                "desc": "A643 Mainzer Ring AS Mombach - Kamera 385",
+                "angle": "365"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [8.2114, 50.02898]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "380",
+                "desc": "A643 Mainzer Ring AS Mombach - Kamera 380",
+                "angle": "185"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [8.2114, 50.02898]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "390",
+                "desc": "A643 Mainz Mombach - Kamera 390",
+                "angle": "290"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [8.21737, 50.0298]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "400",
+                "desc": "A60 Mainzer Ring AS Hechtsheim Ost - Kamera 400",
+                "angle": "230"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [8.26273, 49.96781]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2510",
+                "desc": "Mainz Feuerwache2 - Kamera 2510",
+                "angle": "470"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [8.25376, 50.01633]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2520",
+                "desc": "Mainz Pariser Strasse - Kamera 2520",
+                "angle": "400"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [8.26027, 49.9815]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2530",
+                "desc": "Mainz Saarstrasse - Kamera 2530",
+                "angle": "440"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [8.23882, 49.9949]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2540",
+                "desc": "Mainz Wormser Strasse - Kamera 2540",
+                "angle": "320"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [8.30386, 49.9835]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2550",
+                "desc": "Mainz Theodor-Heuss-Bruecke - Kamera 2550",
+                "angle": "500"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [8.27438, 50.00363]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2560",
+                "desc": "Mainz Theodor-Heuss-Bruecke - Kamera 2560",
+                "angle": "320"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [8.272, 50.00614]
+                ]
+            }
+        }
+    ]
+}
