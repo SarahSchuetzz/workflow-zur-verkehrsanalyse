@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "removeComments": true,
+    "declaration": true,
+    "declarationDir": "./dist",
+    "module": "es6",
+    "noImplicitAny": true,
+    "outDir": "./dist",
+    "target": "es6",
+    "typeRoots": [
+      "node_modules/@types",
+      "node_modules/tsee/lib"
+    ]
+  },
+  "include": [
+    "src/**/*", "rollup.config.js", "node_modules/*"
+  ]
+}
