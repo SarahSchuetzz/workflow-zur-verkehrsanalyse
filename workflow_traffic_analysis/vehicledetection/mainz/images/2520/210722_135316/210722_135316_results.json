@@ -1,0 +1,12 @@
+{
+        "Observation":[
+            {
+                "result" : 0,
+                "Datastream": {"@iot.id": 20}
+            },
+            {
+                "result" : 0,
+                "Datastream": {"@iot.id": 21}
+            }
+        ]
+    }
