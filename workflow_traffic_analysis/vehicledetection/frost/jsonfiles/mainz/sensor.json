@@ -1,0 +1,214 @@
+{
+    "sensors": [
+        {
+        "name": "Camera 305",
+        "description": "Traffic Webcam",
+        "properties": {},
+        "encodingType": "",
+        "metadata": ""
+    },
+    {
+        "name": "Camera 310",
+        "description": "Traffic Webcam",
+        "properties": {},
+        "encodingType": "",
+        "metadata": ""
+    },
+    {
+        "name": "Camera 315",
+        "description": "Traffic Webcam",
+        "properties": {},
+        "encodingType": "",
+        "metadata": ""
+    },
+    {
+        "name": "Camera 317",
+        "description": "Traffic Webcam",
+        "properties": {},
+        "encodingType": "",
+        "metadata": ""
+    },
+    {
+        "name": "Camera 320",
+        "description": "Traffic Webcam",
+        "properties": {},
+        "encodingType": "",
+        "metadata": ""
+    },
+    {
+        "name": "Camera 325",
+        "description": "Traffic Webcam",
+        "properties": {},
+        "encodingType": "",
+        "metadata": ""
+    },
+    {
+        "name": "Camera 330",
+        "description": "Traffic Webcam",
+        "properties": {},
+        "encodingType": "",
+        "metadata": ""
+    },
+    {
+        "name": "Camera 335",
+        "description": "Traffic Webcam",
+        "properties": {},
+        "encodingType": "",
+        "metadata": ""
+    },
+    {
+        "name": "Camera 345",
+        "description": "Traffic Webcam",
+        "properties": {},
+        "encodingType": "",
+        "metadata": ""
+    },
+    {
+        "name": "Camera 340",
+        "description": "Traffic Webcam",
+        "properties": {},
+        "encodingType": "",
+        "metadata": ""
+    },
+    {
+        "name": "Camera 350",
+        "description": "Traffic Webcam",
+        "properties": {},
+        "encodingType": "",
+        "metadata": ""
+    },
+    {
+        "name": "Camera 355",
+        "description": "Traffic Webcam",
+        "properties": {},
+        "encodingType": "",
+        "metadata": ""
+    },
+    {
+        "name": "Camera 360",
+        "description": "Traffic Webcam",
+        "properties": {},
+        "encodingType": "",
+        "metadata": ""
+    },
+    {
+        "name": "Camera 365",
+        "description": "Traffic Webcam",
+        "properties": {},
+        "encodingType": "",
+        "metadata": ""
+    },
+    {
+        "name": "Camera 370",
+        "description": "Traffic Webcam",
+        "properties": {},
+        "encodingType": "",
+        "metadata": ""
+    },
+    {
+        "name": "Camera 375",
+        "description": "Traffic Webcam",
+        "properties": {},
+        "encodingType": "",
+        "metadata": ""
+    },
+    {
+        "name": "Camera 371",
+        "description": "Traffic Webcam",
+        "properties": {},
+        "encodingType": "",
+        "metadata": ""
+    },
+    {
+        "name": "Camera 373",
+        "description": "Traffic Webcam",
+        "properties": {},
+        "encodingType": "",
+        "metadata": ""
+    },
+    {
+        "name": "Camera 377",
+        "description": "Traffic Webcam",
+        "properties": {},
+        "encodingType": "",
+        "metadata": ""
+    },
+    {
+        "name": "Camera 378",
+        "description": "Traffic Webcam",
+        "properties": {},
+        "encodingType": "",
+        "metadata": ""
+    },
+    {
+        "name": "Camera 385",
+        "description": "Traffic Webcam",
+        "properties": {},
+        "encodingType": "",
+        "metadata": ""
+    },
+    {
+        "name": "Camera 380",
+        "description": "Traffic Webcam",
+        "properties": {},
+        "encodingType": "",
+        "metadata": ""
+    },
+    {
+        "name": "Camera 390",
+        "description": "Traffic Webcam",
+        "properties": {},
+        "encodingType": "",
+        "metadata": ""
+    },
+    {
+        "name": "Camera 400",
+        "description": "Traffic Webcam",
+        "properties": {},
+        "encodingType": "",
+        "metadata": ""
+    },
+    {
+        "name": "Camera 2510",
+        "description": "Traffic Webcam",
+        "properties": {},
+        "encodingType": "",
+        "metadata": ""
+    },
+    {
+        "name": "Camera 2520",
+        "description": "Traffic Webcam",
+        "properties": {},
+        "encodingType": "",
+        "metadata": ""
+    },
+    {
+        "name": "Camera 2530",
+        "description": "Traffic Webcam",
+        "properties": {},
+        "encodingType": "",
+        "metadata": ""
+    },
+    {
+        "name": "Camera 2540",
+        "description": "Traffic Webcam",
+        "properties": {},
+        "encodingType": "",
+        "metadata": ""
+    },
+    {
+        "name": "Camera 2550",
+        "description": "Traffic Webcam",
+        "properties": {},
+        "encodingType": "",
+        "metadata": ""
+    },
+    {
+        "name": "Camera 2560",
+        "description": "Traffic Webcam",
+        "properties": {},
+        "encodingType": "",
+        "metadata": ""
+    }
+    ]
+}

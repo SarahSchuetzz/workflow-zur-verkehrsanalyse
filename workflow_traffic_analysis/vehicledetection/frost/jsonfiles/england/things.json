@@ -1,0 +1,19 @@
+{
+    "things":[
+        {
+        "name" : "A1 52010 A14",
+        "description" : "Sichtbereich der Kamera",
+        "properties" : {}
+    },
+    {
+        "name" : "A1 52022 A141",
+        "description" : "Sichtbereich der Kamera",
+        "properties" : {}
+    },
+    {
+        "name" : "A14 50685 J21",
+        "description" : "Sichtbereich der Kamera",
+        "properties" : {}
+    }
+    ]
+}

@@ -1,0 +1,444 @@
+{
+    "datastreams": [
+        {
+            "name" : "number of cars from camera in direction Autobahntunnel Einfahrt Hechtsheim",
+            "description" : "counted cars at specific time from camera 320",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 1},
+            "Sensor": {"@iot.id": 5},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Mombach A643 Gonsenheim",
+            "description" : "counted cars at specific time from camera 370",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 2},
+            "Sensor": {"@iot.id": 15},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Hechtsheim A60 Mainz-Sued",
+            "description" : "counted cars at specific time from camera 335",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 3},
+            "Sensor": {"@iot.id": 8},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Hechtsheim A60 Weisenau",
+            "description" : "counted cars at specific time from camera 315",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 4},
+            "Sensor": {"@iot.id": 3},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Ginsheim A60 Weisenau",
+            "description" : "counted cars at specific time from camera 315",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 5},
+            "Sensor": {"@iot.id": 3},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Auffahrt Mainzer Dreieck A643",
+            "description" : "counted cars at specific time from camera 360",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 6},
+            "Sensor": {"@iot.id": 13},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Mainzer Dreieck A643 Mainzer Sand",
+            "description" : "counted cars at specific time from camera 377",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 7},
+            "Sensor": {"@iot.id": 19},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Heidesheim A60",
+            "description" : "counted cars at specific time from camera 355",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 8},
+            "Sensor": {"@iot.id": 12},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Finthen A60 Mainz-Sued",
+            "description" : "counted cars at specific time from camera 330",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 9},
+            "Sensor": {"@iot.id": 7},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Kreisverkehreinfahrt Gonsenheim",
+            "description" : "counted cars at specific time from camera 373",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 10},
+            "Sensor": {"@iot.id": 18},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Hechtsheim",
+            "description" : "counted cars at specific time from camera 325",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 11},
+            "Sensor": {"@iot.id": 6},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Mainz-Weisenau Bauhaus",
+            "description" : "counted cars at specific time from camera 317",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 12},
+            "Sensor": {"@iot.id": 4},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Mainzer Dreieck A643 Mombach",
+            "description" : "counted cars at specific time from camera 380",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 13},
+            "Sensor": {"@iot.id": 22},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Schiersteiner Bruecke A643 Mombach",
+            "description" : "counted cars at specific time from camera 380",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 14},
+            "Sensor": {"@iot.id": 22},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Abfahrt A60 Bauhaus Weisenau",
+            "description" : "counted cars at specific time from camera 317",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 15},
+            "Sensor": {"@iot.id": 4},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Heidesheim A60 Dreieck Mainz",
+            "description" : "counted cars at specific time from camera 365",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 16},
+            "Sensor": {"@iot.id": 14},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Mainz-Weisenau A60 Laubenheim",
+            "description" : "counted cars at specific time from camera 305",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 17},
+            "Sensor": {"@iot.id": 1},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Mombach A643 Mainzer Sand",
+            "description" : "counted cars at specific time from camera 377",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 18},
+            "Sensor": {"@iot.id": 19},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction A643 Rheinallee Mombach",
+            "description" : "counted cars at specific time from camera 390",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 19},
+            "Sensor": {"@iot.id": 23},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Mainz-Sued B40 Pariser Strasse",
+            "description" : "counted cars at specific time from camera 2520",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 20},
+            "Sensor": {"@iot.id": 26},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Oberstadt B40 Pariser Strasse",
+            "description" : "counted cars at specific time from camera 2520",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 21},
+            "Sensor": {"@iot.id": 26},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Gonsenheim A643 Mainzer Dreieck",
+            "description" : "counted cars at specific time from camera 365",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 22},
+            "Sensor": {"@iot.id": 14},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Rheinallee Theodor-Heuss-Bruecke",
+            "description" : "counted cars at specific time from camera 2560",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 23},
+            "Sensor": {"@iot.id": 30},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Bretzenheim A63 Mainz-Sued",
+            "description" : "counted cars at specific time from camera 345",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 24},
+            "Sensor": {"@iot.id": 9},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Kreisverkehr Gonsenheim",
+            "description" : "counted cars at specific time from camera 371",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 25},
+            "Sensor": {"@iot.id": 17},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Autobahntunnel Ausfahrt Hechtsheim",
+            "description" : "counted cars at specific time from camera 320",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 26},
+            "Sensor": {"@iot.id": 5},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Innenstadt Saarstrasse",
+            "description" : "counted cars at specific time from camera 2530",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 27},
+            "Sensor": {"@iot.id": 27},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Oberstadt",
+            "description" : "counted cars at specific time from camera 325",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 28},
+            "Sensor": {"@iot.id": 6},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Mainzer Dreieck A643 Gonsenheim",
+            "description" : "counted cars at specific time from camera 370",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 29},
+            "Sensor": {"@iot.id": 15},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Mainz-Kastel Theodor-Heuss-Bruecke",
+            "description" : "counted cars at specific time from camera 2550",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 30},
+            "Sensor": {"@iot.id": 29},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Mainz-Weisenau",
+            "description" : "counted cars at specific time from camera 2540",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 31},
+            "Sensor": {"@iot.id": 28},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Auffahrt A643 Gonsenheim",
+            "description" : "counted cars at specific time from camera 375",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 32},
+            "Sensor": {"@iot.id": 16},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Theodor-Heuss-Bruecke Rheinallee Zollhafen",
+            "description" : "counted cars at specific time from camera 2510",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 33},
+            "Sensor": {"@iot.id": 25},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Finthen Saarstrasse",
+            "description" : "counted cars at specific time from camera 2530",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 34},
+            "Sensor": {"@iot.id": 27},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Kleinwinternheim A63 Mainz-Sued",
+            "description" : "counted cars at specific time from camera 345",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 35},
+            "Sensor": {"@iot.id": 9},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Finthen A60",
+            "description" : "counted cars at specific time from camera 355",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 36},
+            "Sensor": {"@iot.id": 12},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Rheinallee Momabach",
+            "description" : "counted cars at specific time from camera 390",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 37},
+            "Sensor": {"@iot.id": 23},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Mombach Rheinallee Zollhafen",
+            "description" : "counted cars at specific time from camera 2510",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 38},
+            "Sensor": {"@iot.id": 25},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Ginsheim A60 Laubenheim",
+            "description" : "counted cars at specific time from camera 310",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 39},
+            "Sensor": {"@iot.id": 2},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars from camera in direction Kreisverkehrausfahrt Gonsenheim",
+            "description" : "counted cars at specific time from camera 373",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 40},
+            "Sensor": {"@iot.id": 18},
+            "ObservedProperty": {"@iot.id": 1}
+        }
+    ]
+}

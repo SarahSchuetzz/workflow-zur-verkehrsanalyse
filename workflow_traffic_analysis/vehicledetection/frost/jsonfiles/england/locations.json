@@ -1,0 +1,43 @@
+{
+    "locations": [
+        {
+            "name": "A1 52010 A14",
+            "description": "surveyed street part of camera",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [-0.246222, 52.319946]
+            },
+            "Things": [
+                { "@iot.id": 41}
+            ]
+        },
+    {
+            "name": "A1 52022 A141",
+            "description": "surveyed street part of camera",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [-0.2481408, 52.33081]
+            },
+            "Things": [
+                { "@iot.id": 42}
+            ]
+        },
+    {
+            "name": "A14 50685 J21",
+            "description": "surveyed street part of camera",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [-0.25988823, 52.332146]
+            },
+            "Things": [
+                { "@iot.id": 43}
+            ]
+        }
+    ]
+}

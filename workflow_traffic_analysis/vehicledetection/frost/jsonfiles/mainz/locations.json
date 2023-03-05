@@ -1,0 +1,524 @@
+{
+    "locations": [
+        {
+            "name": "Autobahntunnel Einfahrt Hechtsheim",
+            "description": "surveyed street part of camera 320",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.272795, 49.973976], [8.272798, 49.973974], [8.2729, 49.973898], [8.272984, 49.973779], [8.273022, 49.973662], [8.273026, 49.973563], [8.273006, 49.973476], [8.272963, 49.973391], [8.272891, 49.973304]]]
+            },
+            "Things": [
+                { "@iot.id": 1}
+            ]
+        },
+    {
+            "name": "Mombach A643 Gonsenheim",
+            "description": "surveyed street part of camera 370",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.20305, 50.013084], [8.203402, 50.013406]], [[8.203402, 50.013406], [8.203904, 50.013875]], [[8.203904, 50.013875], [8.204024, 50.013996]]]
+            },
+            "Things": [
+                { "@iot.id": 2}
+            ]
+        },
+    {
+            "name": "Hechtsheim A60 Mainz-Sued",
+            "description": "surveyed street part of camera 335",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.238326, 49.96427], [8.239668, 49.964291]], [[8.23727, 49.964298], [8.237417, 49.964293]], [[8.241539, 49.964377], [8.241913, 49.964411], [8.242065, 49.964433], [8.242243, 49.964462], [8.242405, 49.964495], [8.242591, 49.964521], [8.242903, 49.964568], [8.243175, 49.964606], [8.244292, 49.964742]], [[8.239909, 49.964299], [8.240596, 49.964318], [8.241217, 49.964353], [8.241351, 49.964363]], [[8.237417, 49.964293], [8.238326, 49.96427]], [[8.244786, 49.964823], [8.245512, 49.964955], [8.24596, 49.965044], [8.246388, 49.965134], [8.246514, 49.965163]], [[8.244292, 49.964742], [8.244786, 49.964823]], [[8.239668, 49.964291], [8.239909, 49.964299]]]
+            },
+            "Things": [
+                { "@iot.id": 3}
+            ]
+        },
+    {
+            "name": "Hechtsheim A60 Weisenau",
+            "description": "surveyed street part of camera 315",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.287772, 49.974642], [8.287526, 49.97467], [8.286837, 49.974731], [8.286755, 49.974738], [8.285903, 49.974801]], [[8.285903, 49.974801], [8.285685, 49.97481]]]
+            },
+            "Things": [
+                { "@iot.id": 4}
+            ]
+        },
+    {
+            "name": "Ginsheim A60 Weisenau",
+            "description": "surveyed street part of camera 315",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.285765, 49.974673], [8.286145, 49.974655], [8.286646, 49.974621], [8.28739, 49.974552], [8.287869, 49.974501]]]
+            },
+            "Things": [
+                { "@iot.id": 5}
+            ]
+        },
+    {
+            "name": "Auffahrt Mainzer Dreieck A643",
+            "description": "surveyed street part of camera 360",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.183469, 50.001185], [8.183561, 50.001351], [8.183721, 50.001562], [8.183789, 50.001631]], [[8.183344, 50.00071], [8.183364, 50.000869], [8.183406, 50.001028], [8.183469, 50.001185]]]
+            },
+            "Things": [
+                { "@iot.id": 6}
+            ]
+        },
+    {
+            "name": "Mainzer Dreieck A643 Mainzer Sand",
+            "description": "surveyed street part of camera 377",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.209375, 50.021218], [8.209284, 50.021036], [8.209081, 50.020648], [8.208877, 50.020283], [8.208667, 50.019937], [8.208543, 50.019734]], [[8.210613, 50.02434], [8.210447, 50.023816], [8.21023, 50.023198], [8.209991, 50.022584], [8.209731, 50.021973], [8.209498, 50.02147]]]
+            },
+            "Things": [
+                { "@iot.id": 7}
+            ]
+        },
+    {
+            "name": "Heidesheim A60",
+            "description": "surveyed street part of camera 355",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.182229, 49.999712], [8.181797, 49.999804], [8.181357, 49.99988], [8.180911, 49.999939], [8.180461, 49.999981], [8.180458, 49.999981]], [[8.183446, 49.999333], [8.183377, 49.999361], [8.183022, 49.999487]], [[8.185374, 49.998237], [8.185227, 49.998355], [8.184957, 49.99855], [8.18467, 49.998735], [8.184368, 49.998909], [8.184051, 49.999071], [8.183856, 49.99916]], [[8.183022, 49.999487], [8.182739, 49.999576], [8.18249, 49.999647], [8.182229, 49.999712]]]
+            },
+            "Things": [
+                { "@iot.id": 8}
+            ]
+        },
+    {
+            "name": "Finthen A60 Mainz-Sued",
+            "description": "surveyed street part of camera 330",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.246415, 49.965263], [8.246345, 49.965247], [8.24545, 49.96507]], [[8.24545, 49.96507], [8.244748, 49.964941]], [[8.241165, 49.964575], [8.240748, 49.964549], [8.240344, 49.964524], [8.239846, 49.964501]], [[8.244748, 49.964941], [8.243678, 49.964804], [8.242295, 49.964665], [8.241762, 49.964612], [8.241748, 49.964611]], [[8.238555, 49.964478], [8.238189, 49.964475], [8.237827, 49.964473], [8.237232, 49.964477]], [[8.239846, 49.964501], [8.238555, 49.964478]]]
+            },
+            "Things": [
+                { "@iot.id": 9}
+            ]
+        },
+    {
+            "name": "Kreisverkehreinfahrt Gonsenheim",
+            "description": "surveyed street part of camera 373",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.2034, 50.011097], [8.203266, 50.011173], [8.203116, 50.011275], [8.203059, 50.01132], [8.203, 50.011373], [8.202976, 50.0114]], [[8.203879, 50.010845], [8.203796, 50.010886], [8.203571, 50.011001], [8.2034, 50.011097]]]
+            },
+            "Things": [
+                { "@iot.id": 10}
+            ]
+        },
+    {
+            "name": "Hechtsheim",
+            "description": "surveyed street part of camera 325",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.271022, 49.972349], [8.270971, 49.972081]], [[8.270762, 49.973485], [8.270763, 49.973482], [8.270779, 49.973448], [8.270851, 49.973287], [8.270921, 49.973098], [8.27099, 49.972877], [8.27102, 49.972733]], [[8.27102, 49.972733], [8.27103, 49.972555], [8.271022, 49.972349]]]
+            },
+            "Things": [
+                { "@iot.id": 11}
+            ]
+        },
+    {
+            "name": "Mainz-Weisenau Bauhaus",
+            "description": "surveyed street part of camera 317",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.289424, 49.974128], [8.289325, 49.97398], [8.289281, 49.973907]], [[8.289281, 49.973907], [8.289225, 49.973815], [8.289149, 49.97372]]]
+            },
+            "Things": [
+                { "@iot.id": 12}
+            ]
+        },
+    {
+            "name": "Mainzer Dreieck A643 Mombach",
+            "description": "surveyed street part of camera 380",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.211303, 50.027632], [8.211287, 50.027501]], [[8.211329, 50.027868], [8.211303, 50.027632]], [[8.211433, 50.02895], [8.211329, 50.027868]], [[8.21151, 50.029757], [8.211438, 50.029003]], [[8.211353, 50.030184], [8.211416, 50.030084], [8.211481, 50.029943], [8.211508, 50.029838], [8.21151, 50.029757]], [[8.211256, 50.030332], [8.211353, 50.030184]]]
+            },
+            "Things": [
+                { "@iot.id": 13}
+            ]
+        },
+    {
+            "name": "Schiersteiner Bruecke A643 Mombach",
+            "description": "surveyed street part of camera 380",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.211441, 50.027957], [8.211558, 50.028923]], [[8.211576, 50.029065], [8.211659, 50.029752]], [[8.211659, 50.029752], [8.211655, 50.029931], [8.211637, 50.030015], [8.211609, 50.030092], [8.211582, 50.030149], [8.211508, 50.030276]], [[8.211393, 50.027508], [8.211396, 50.027528], [8.211441, 50.027957]], [[8.211508, 50.030276], [8.211429, 50.030376], [8.211412, 50.030399]]]
+            },
+            "Things": [
+                { "@iot.id": 14}
+            ]
+        },
+    {
+            "name": "Abfahrt A60 Bauhaus Weisenau",
+            "description": "surveyed street part of camera 317",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.288725, 49.97401], [8.288909, 49.973945], [8.288966, 49.973917], [8.288998, 49.973896], [8.289022, 49.973877], [8.289046, 49.973848], [8.289067, 49.973815]], [[8.289067, 49.973815], [8.289079, 49.973772], [8.289078, 49.973743]], [[8.288002, 49.974165], [8.288725, 49.97401]]]
+            },
+            "Things": [
+                { "@iot.id": 15}
+            ]
+        },
+    {
+            "name": "Heidesheim A60 Dreieck Mainz",
+            "description": "surveyed street part of camera 365",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.185818, 50.002943], [8.185163, 50.002668], [8.183771, 50.00208]]]
+            },
+            "Things": [
+                { "@iot.id": 16}
+            ]
+        },
+    {
+            "name": "Mainz-Weisenau A60 Laubenheim",
+            "description": "surveyed street part of camera 305",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.317001, 49.972254], [8.316707, 49.972114], [8.316211, 49.971903], [8.315893, 49.971773], [8.315352, 49.971569]], [[8.313334, 49.970951], [8.312744, 49.970807]], [[8.31247, 49.970744], [8.311925, 49.970631]], [[8.311925, 49.970631], [8.311498, 49.970556], [8.310774, 49.97045], [8.310185, 49.970376], [8.309662, 49.970316], [8.309105, 49.970267]], [[8.315352, 49.971569], [8.314782, 49.971377]], [[8.313359, 49.970957], [8.313334, 49.970951]], [[8.313917, 49.97111], [8.313684, 49.971046]], [[8.312744, 49.970807], [8.31247, 49.970744]], [[8.309105, 49.970267], [8.308697, 49.970239], [8.308189, 49.970214], [8.308017, 49.97021]], [[8.314782, 49.971377], [8.314131, 49.971167], [8.313917, 49.97111]]]
+            },
+            "Things": [
+                { "@iot.id": 17}
+            ]
+        },
+    {
+            "name": "Mombach A643 Mainzer Sand",
+            "description": "surveyed street part of camera 377",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.208661, 50.019715], [8.208779, 50.019914], [8.208989, 50.020264], [8.209198, 50.02063]], [[8.209576, 50.021399], [8.209891, 50.022076], [8.210199, 50.022815], [8.210476, 50.02356], [8.21072, 50.024308]], [[8.209198, 50.02063], [8.209386, 50.021005], [8.209489, 50.021217]], [[8.21072, 50.024308], [8.210727, 50.024332]]]
+            },
+            "Things": [
+                { "@iot.id": 18}
+            ]
+        },
+    {
+            "name": "A643 Rheinallee Mombach",
+            "description": "surveyed street part of camera 390",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.218908, 50.029047], [8.218245, 50.02933], [8.21789, 50.02948], [8.217581, 50.029597], [8.217435, 50.029653]], [[8.219761, 50.028766], [8.219625, 50.028811]], [[8.219625, 50.028811], [8.218908, 50.029047]], [[8.218908, 50.029047], [8.218714, 50.02911], [8.218651, 50.029131], [8.218171, 50.029275], [8.217793, 50.029392], [8.217586, 50.029454]]]
+            },
+            "Things": [
+                { "@iot.id": 19}
+            ]
+        },
+    {
+            "name": "Mainz-Sued B40 Pariser Strasse",
+            "description": "surveyed street part of camera 2520",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.259998, 49.981452], [8.257988, 49.979814], [8.257227, 49.979182]]]
+            },
+            "Things": [
+                { "@iot.id": 20}
+            ]
+        },
+    {
+            "name": "Oberstadt B40 Pariser Strasse",
+            "description": "surveyed street part of camera 2520",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.257308, 49.979127], [8.258114, 49.979772], [8.26014, 49.981447]]]
+            },
+            "Things": [
+                { "@iot.id": 21}
+            ]
+        },
+    {
+            "name": "Gonsenheim A643 Mainzer Dreieck",
+            "description": "surveyed street part of camera 365",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.185272, 50.002579], [8.186018, 50.00289]], [[8.183707, 50.001922], [8.185272, 50.002579]]]
+            },
+            "Things": [
+                { "@iot.id": 22}
+            ]
+        },
+    {
+            "name": "Rheinallee Theodor-Heuss-Bruecke",
+            "description": "surveyed street part of camera 2560",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.27292, 50.00535], [8.272891, 50.005371], [8.272193, 50.006121]], [[8.272087, 50.006092], [8.272055, 50.006129]], [[8.272816, 50.0053], [8.272689, 50.005401], [8.272176, 50.005992], [8.272087, 50.006092]]]
+            },
+            "Things": [
+                { "@iot.id": 23}
+            ]
+        },
+    {
+            "name": "Bretzenheim A63 Mainz-Sued",
+            "description": "surveyed street part of camera 345",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.23861, 49.963902], [8.238988, 49.964217]], [[8.236406, 49.962073], [8.236672, 49.962289]], [[8.235492, 49.96133], [8.236406, 49.962073]], [[8.237825, 49.963245], [8.23861, 49.963902]], [[8.236672, 49.962289], [8.237361, 49.962858]]]
+            },
+            "Things": [
+                { "@iot.id": 24}
+            ]
+        },
+    {
+            "name": "Kreisverkehr Gonsenheim",
+            "description": "surveyed street part of camera 371",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.202107, 50.011785], [8.20216, 50.011753], [8.202293, 50.011693], [8.202418, 50.011655], [8.202492, 50.011615]], [[8.202834, 50.011508], [8.202891, 50.011539], [8.20293, 50.011581], [8.202945, 50.011628], [8.202936, 50.011676], [8.202903, 50.011719], [8.20285, 50.011754], [8.202788, 50.011773], [8.202719, 50.011781], [8.202651, 50.011774], [8.202588, 50.011755], [8.202538, 50.011724], [8.202498, 50.011673], [8.202492, 50.011615], [8.202514, 50.01157], [8.202558, 50.011531], [8.202618, 50.011503], [8.202689, 50.011489], [8.202764, 50.011491], [8.202834, 50.011508]], [[8.202538, 50.011724], [8.202441, 50.011732], [8.202275, 50.011763], [8.202177, 50.01179], [8.202142, 50.011804]], [[8.20285, 50.011754], [8.202777, 50.011842], [8.202756, 50.011902], [8.20276, 50.011966], [8.202778, 50.012031], [8.2028, 50.012084]]]
+            },
+            "Things": [
+                { "@iot.id": 25}
+            ]
+        },
+    {
+            "name": "Autobahntunnel Ausfahrt Hechtsheim",
+            "description": "surveyed street part of camera 320",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.273029, 49.97418], [8.273139, 49.974127], [8.273257, 49.974032], [8.273359, 49.973918], [8.273424, 49.973823]], [[8.273424, 49.973823], [8.273445, 49.973791], [8.273743, 49.973352]]]
+            },
+            "Things": [
+                { "@iot.id": 26}
+            ]
+        },
+    {
+            "name": "Innenstadt Saarstrasse",
+            "description": "surveyed street part of camera 2530",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.237135, 49.994601], [8.238475, 49.994888], [8.238603, 49.994916]]]
+            },
+            "Things": [
+                { "@iot.id": 27}
+            ]
+        },
+    {
+            "name": "Oberstadt",
+            "description": "surveyed street part of camera 325",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.271232, 49.972855], [8.271181, 49.973008], [8.271108, 49.973198], [8.270994, 49.973474]], [[8.271242, 49.972309], [8.271256, 49.972372], [8.271267, 49.972557], [8.271268, 49.972624], [8.271265, 49.972683], [8.27125, 49.972761], [8.271232, 49.972855]], [[8.271215, 49.972152], [8.271242, 49.972309]]]
+            },
+            "Things": [
+                { "@iot.id": 28}
+            ]
+        },
+    {
+            "name": "Mainzer Dreieck A643 Gonsenheim",
+            "description": "surveyed street part of camera 370",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.203857, 50.014045], [8.203725, 50.013914]], [[8.203725, 50.013914], [8.203242, 50.01346], [8.202807, 50.013061]]]
+            },
+            "Things": [
+                { "@iot.id": 29}
+            ]
+        },
+    {
+            "name": "Mainz-Kastel Theodor-Heuss-Bruecke",
+            "description": "surveyed street part of camera 2550",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.27443, 50.003666], [8.274374, 50.003721], [8.273414, 50.004693]], [[8.273414, 50.004693], [8.273331, 50.00478]], [[8.274448, 50.003733], [8.274394, 50.003787], [8.273413, 50.004796], [8.273409, 50.004801]]]
+            },
+            "Things": [
+                { "@iot.id": 30}
+            ]
+        },
+    {
+            "name": "Mainz-Weisenau",
+            "description": "surveyed street part of camera 2540",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.304301, 49.983266], [8.304073, 49.983394], [8.303877, 49.983497]], [[8.304745, 49.98303], [8.304445, 49.98319], [8.304301, 49.983266]]]
+            },
+            "Things": [
+                { "@iot.id": 31}
+            ]
+        },
+    {
+            "name": "Auffahrt A643 Gonsenheim",
+            "description": "surveyed street part of camera 375",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.202963, 50.012547], [8.202982, 50.01263], [8.203054, 50.012832]], [[8.203054, 50.012832], [8.203101, 50.012934], [8.20318, 50.013057]]]
+            },
+            "Things": [
+                { "@iot.id": 32}
+            ]
+        },
+    {
+            "name": "Theodor-Heuss-Bruecke Rheinallee Zollhafen",
+            "description": "surveyed street part of camera 2510",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.253144, 50.016294], [8.253345, 50.016186]], [[8.252747, 50.016495], [8.252842, 50.016447], [8.252892, 50.016422], [8.252934, 50.016401], [8.253026, 50.016354], [8.253144, 50.016294]], [[8.252148, 50.016805], [8.252678, 50.016548]], [[8.252678, 50.016548], [8.252747, 50.016495]]]
+            },
+            "Things": [
+                { "@iot.id": 33}
+            ]
+        },
+    {
+            "name": "Finthen Saarstrasse",
+            "description": "surveyed street part of camera 2530",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.238482, 49.994974], [8.238472, 49.994972], [8.237091, 49.994675]]]
+            },
+            "Things": [
+                { "@iot.id": 34}
+            ]
+        },
+    {
+            "name": "Kleinwinternheim A63 Mainz-Sued",
+            "description": "surveyed street part of camera 345",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.238789, 49.964205], [8.238389, 49.963886]], [[8.237325, 49.962965], [8.236556, 49.962323]], [[8.238389, 49.963886], [8.237642, 49.963239]], [[8.236556, 49.962323], [8.236388, 49.962186]], [[8.236388, 49.962186], [8.235407, 49.961379]]]
+            },
+            "Things": [
+                { "@iot.id": 35}
+            ]
+        },
+    {
+            "name": "Finthen A60",
+            "description": "surveyed street part of camera 355",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.180479, 49.999897], [8.180865, 49.999861], [8.181312, 49.999803], [8.181752, 49.999727], [8.182185, 49.999635]], [[8.182185, 49.999635], [8.18244, 49.99957], [8.182731, 49.999487], [8.183027, 49.999391]], [[8.183027, 49.999391], [8.183284, 49.999298]], [[8.183876, 49.999049], [8.183987, 49.998998], [8.184284, 49.998846], [8.184567, 49.998683], [8.184837, 49.998511], [8.185092, 49.99833]], [[8.185092, 49.99833], [8.185261, 49.998184]]]
+            },
+            "Things": [
+                { "@iot.id": 36}
+            ]
+        },
+    {
+            "name": "Rheinallee Momabach",
+            "description": "surveyed street part of camera 390",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.218056, 50.029115], [8.21836, 50.029049], [8.2187, 50.028964], [8.219019, 50.028875], [8.219382, 50.028765]], [[8.219382, 50.028765], [8.219598, 50.028695], [8.219644, 50.02868]], [[8.21781, 50.029157], [8.218056, 50.029115]]]
+            },
+            "Things": [
+                { "@iot.id": 37}
+            ]
+        },
+    {
+            "name": "Mombach Rheinallee Zollhafen",
+            "description": "surveyed street part of camera 2510",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.253502, 50.016234], [8.253392, 50.016293], [8.253239, 50.016372]], [[8.253122, 50.016432], [8.25302, 50.016485], [8.252979, 50.016507], [8.252901, 50.016549]], [[8.252901, 50.016549], [8.252769, 50.01662], [8.252238, 50.016885], [8.252221, 50.016894]], [[8.253239, 50.016372], [8.253122, 50.016432]]]
+            },
+            "Things": [
+                { "@iot.id": 38}
+            ]
+        },
+    {
+            "name": "Ginsheim A60 Laubenheim",
+            "description": "surveyed street part of camera 310",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.311674, 49.970468], [8.311967, 49.970518]], [[8.314792, 49.971245], [8.315477, 49.971496], [8.316149, 49.971761], [8.316718, 49.972011], [8.317109, 49.972181]], [[8.313947, 49.970991], [8.314371, 49.971112], [8.314646, 49.971199]], [[8.314646, 49.971199], [8.314792, 49.971245]], [[8.313825, 49.970957], [8.313947, 49.970991]], [[8.307969, 49.970089], [8.309222, 49.970147]], [[8.312699, 49.970671], [8.313181, 49.970789], [8.31349, 49.970864]], [[8.309222, 49.970147], [8.309548, 49.970175], [8.310128, 49.970241], [8.310719, 49.970316], [8.311674, 49.970468]], [[8.31251, 49.970631], [8.312699, 49.970671]], [[8.311967, 49.970518], [8.31251, 49.970631]]]
+            },
+            "Things": [
+                { "@iot.id": 39}
+            ]
+        },
+    {
+            "name": "Kreisverkehrausfahrt Gonsenheim",
+            "description": "surveyed street part of camera 373",
+            "properties": {},
+            "encodingType": "application/geo+json",
+            "location": {
+                "type": "MultiLineString",
+                "coordinates": [[[8.20288, 50.011392], [8.202966, 50.011302], [8.203093, 50.01121], [8.203314, 50.01108], [8.20377, 50.010838]]]
+            },
+            "Things": [
+                { "@iot.id": 40}
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "datastreams": [
+        {
+            "name" : "number of cars at A1 52010 A14",
+            "description" : "counted cars at specific time from camera",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 41},
+            "Sensor": {"@iot.id": 31},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars at A1 52022 A141",
+            "description" : "counted cars at specific time from camera",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 42},
+            "Sensor": {"@iot.id": 31},
+            "ObservedProperty": {"@iot.id": 1}
+        },
+        {
+            "name" : "number of cars at A14 50685 J21",
+            "description" : "counted cars at specific time from camera",
+            "observationType": "https://defs.opengis.net/vocprez/object?uri=http%3A//www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation",
+            "unitOfMeasurement": {
+                "name": "number"
+            },
+            "Thing": {"@iot.id": 43},
+            "Sensor": {"@iot.id": 31},
+            "ObservedProperty": {"@iot.id": 1}
+        }
+    ]
+}

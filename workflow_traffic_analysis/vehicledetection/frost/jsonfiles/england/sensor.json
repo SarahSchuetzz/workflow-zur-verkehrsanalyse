@@ -1,0 +1,11 @@
+{
+    "sensors": [
+        {
+            "name": "Camera England",
+            "description": "Traffic Webcam",
+            "properties": {},
+            "encodingType": "",
+            "metadata": ""
+        }
+    ]
+}

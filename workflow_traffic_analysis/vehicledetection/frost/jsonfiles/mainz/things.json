@@ -1,0 +1,204 @@
+{
+    "things":[
+        {
+          "name" : "Autobahntunnel Einfahrt Hechtsheim",
+          "description" : "Sichtbereich der Kamera 320",
+          "properties" : {}
+        },
+        {
+          "name" : "Mombach A643 Gonsenheim",
+          "description" : "Sichtbereich der Kamera 370",
+          "properties" : {}
+        },
+        {
+          "name" : "Hechtsheim A60 Mainz-Sued",
+          "description" : "Sichtbereich der Kamera 335",
+          "properties" : {}
+        },
+        {
+          "name" : "Hechtsheim A60 Weisenau",
+          "description" : "Sichtbereich der Kamera 315",
+          "properties" : {}
+        },
+        {
+          "name" : "Ginsheim A60 Weisenau",
+          "description" : "Sichtbereich der Kamera 315",
+          "properties" : {}
+        },
+        {
+          "name" : "Auffahrt Mainzer Dreieck A643",
+          "description" : "Sichtbereich der Kamera 360",
+          "properties" : {}
+        },
+        {
+          "name" : "Mainzer Dreieck A643 Mainzer Sand",
+          "description" : "Sichtbereich der Kamera 377",
+          "properties" : {}
+        },
+        {
+          "name" : "Heidesheim A60",
+          "description" : "Sichtbereich der Kamera 355",
+          "properties" : {}
+        },
+        {
+          "name" : "Finthen A60 Mainz-Sued",
+          "description" : "Sichtbereich der Kamera 330",
+          "properties" : {}
+        },
+        {
+          "name" : "Kreisverkehreinfahrt Gonsenheim",
+          "description" : "Sichtbereich der Kamera 373",
+          "properties" : {}
+        },
+        {
+          "name" : "Hechtsheim",
+          "description" : "Sichtbereich der Kamera 325",
+          "properties" : {}
+        },
+        {
+          "name" : "Mainz-Weisenau Bauhaus",
+          "description" : "Sichtbereich der Kamera 317",
+          "properties" : {}
+        },
+        {
+          "name" : "Mainzer Dreieck A643 Mombach",
+          "description" : "Sichtbereich der Kamera 380",
+          "properties" : {}
+        },
+        {
+          "name" : "Schiersteiner Bruecke A643 Mombach",
+          "description" : "Sichtbereich der Kamera 380",
+          "properties" : {}
+        },
+        {
+          "name" : "Abfahrt A60 Bauhaus Weisenau",
+          "description" : "Sichtbereich der Kamera 317",
+          "properties" : {}
+        },
+        {
+          "name" : "Heidesheim A60 Dreieck Mainz",
+          "description" : "Sichtbereich der Kamera 365",
+          "properties" : {}
+        },
+        {
+          "name" : "Mainz-Weisenau A60 Laubenheim",
+          "description" : "Sichtbereich der Kamera 305",
+          "properties" : {}
+        },
+        {
+          "name" : "Mombach A643 Mainzer Sand",
+          "description" : "Sichtbereich der Kamera 377",
+          "properties" : {}
+        },
+        {
+          "name" : "A643 Rheinallee Mombach",
+          "description" : "Sichtbereich der Kamera 390",
+          "properties" : {}
+        },
+        {
+          "name" : "Mainz-Sued B40 Pariser Strasse",
+          "description" : "Sichtbereich der Kamera 2520",
+          "properties" : {}
+        },
+        {
+          "name" : "Oberstadt B40 Pariser Strasse",
+          "description" : "Sichtbereich der Kamera 2520",
+          "properties" : {}
+        },
+        {
+          "name" : "Gonsenheim A643 Mainzer Dreieck",
+          "description" : "Sichtbereich der Kamera 365",
+          "properties" : {}
+        },
+        {
+          "name" : "Rheinallee Theodor-Heuss-Bruecke",
+          "description" : "Sichtbereich der Kamera 2560",
+          "properties" : {}
+        },
+        {
+          "name" : "Bretzenheim A63 Mainz-Sued",
+          "description" : "Sichtbereich der Kamera 345",
+          "properties" : {}
+        },
+        {
+          "name" : "Kreisverkehr Gonsenheim",
+          "description" : "Sichtbereich der Kamera 371",
+          "properties" : {}
+        },
+        {
+          "name" : "Autobahntunnel Ausfahrt Hechtsheim",
+          "description" : "Sichtbereich der Kamera 320",
+          "properties" : {}
+        },
+        {
+          "name" : "Innenstadt Saarstrasse",
+          "description" : "Sichtbereich der Kamera 2530",
+          "properties" : {}
+        },
+        {
+          "name" : "Oberstadt",
+          "description" : "Sichtbereich der Kamera 325",
+          "properties" : {}
+        },
+        {
+          "name" : "Mainzer Dreieck A643 Gonsenheim",
+          "description" : "Sichtbereich der Kamera 370",
+          "properties" : {}
+        },
+        {
+          "name" : "Mainz-Kastel Theodor-Heuss-Bruecke",
+          "description" : "Sichtbereich der Kamera 2550",
+          "properties" : {}
+        },
+        {
+          "name" : "Mainz-Weisenau",
+          "description" : "Sichtbereich der Kamera 2540",
+          "properties" : {}
+        },
+        {
+          "name" : "Auffahrt A643 Gonsenheim",
+          "description" : "Sichtbereich der Kamera 375",
+          "properties" : {}
+        },
+        {
+          "name" : "Theodor-Heuss-Bruecke Rheinallee Zollhafen",
+          "description" : "Sichtbereich der Kamera 2510",
+          "properties" : {}
+        },
+        {
+          "name" : "Finthen Saarstrasse",
+          "description" : "Sichtbereich der Kamera 2530",
+          "properties" : {}
+        },
+        {
+          "name" : "Kleinwinternheim A63 Mainz-Sued",
+          "description" : "Sichtbereich der Kamera 345",
+          "properties" : {}
+        },
+        {
+          "name" : "Finthen A60",
+          "description" : "Sichtbereich der Kamera 355",
+          "properties" : {}
+        },
+        {
+          "name" : "Rheinallee Momabach",
+          "description" : "Sichtbereich der Kamera 390",
+          "properties" : {}
+        },
+        {
+          "name" : "Mombach Rheinallee Zollhafen",
+          "description" : "Sichtbereich der Kamera 2510",
+          "properties" : {}
+        },
+        {
+          "name" : "Ginsheim A60 Laubenheim",
+          "description" : "Sichtbereich der Kamera 310",
+          "properties" : {}
+        },
+        {
+          "name" : "Kreisverkehrausfahrt Gonsenheim",
+          "description" : "Sichtbereich der Kamera 373",
+          "properties" : {}
+        }
+    ]
+}
